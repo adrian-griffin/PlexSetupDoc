@@ -21,6 +21,7 @@ Select settings in the top right > Online Media Sources > **Disable all 3 source
 After accepting the invite to the server select More on the left toolbar and you should see **Movies, Shows, Anime,** and **Toonz**.
 
 Click the Actions button > Pin. Do this for all 4 sources.  
+![pin-sources](https://github.com/adrian-griffin/PlexSetupDoc/blob/main/media/Pin.png)
 
 
 
