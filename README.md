@@ -9,4 +9,8 @@ Once you have created an account select GET STARTED and click the x on the Strea
 
 ![exit-button](https://github.com/adrian-griffin/PlexSetupDoc/blob/main/media/ExitStreamingServices.png)
 
+Afterwards, ignore all the tv shows you see on screen -- they are just advertisements from Apple TV, Hulu, Netflix, etc.
+Select settings in the top right > Online Media Sources > Disable all 3 sources.
 
+![shitty-media-sources](https://github.com/adrian-griffin/PlexSetupDoc/blob/main/media/OnlineMediaSources.png)
+![disabled-all](https://github.com/adrian-griffin/PlexSetupDoc/blob/main/media/disabledall.png)
