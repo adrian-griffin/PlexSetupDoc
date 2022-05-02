@@ -1,7 +1,7 @@
 # Plex Setup - ReadMe
 > You must have either received an invite link via email or accepted the invite from Plex's UI via Settings > Manage Library Access > Requests in order to get access to the server. Otherwise you will have an empty Plex dashboard!
  
-> Ask for an invite or just use the discord bot. For steps on how to accept the invite, follow this link: 
+> Ask for an invite or just use the discord bot.
 
 ## Setting up an account
 
