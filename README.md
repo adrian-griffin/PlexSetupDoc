@@ -45,7 +45,7 @@ Click the Actions button > Pin. **Do this for all 4 sources.**
 
 - All upcoming shows, movies, anime, etc. that has been requested or is popular will be grabbed immediately as well. i.e. All new movie or series releases will be immediately grabbed and uploaded if they have been requested (even if the movie is still in cinema, for example).
 
-- 90% of all content is ripped at 1080p and is lossless, but some content is stored at 720p to save space. If there is a series/movie that you would like to be upgraded to a higher resolution, let me know and I will upload the higher res version.
+- 90% of all content is ripped at 1080p+ and is lossless, but some content is stored at 720p to save storage space. If there is a series/movie that you would like to be upgraded to a higher resolution, let me know and I will upload the higher res version ASAP.
 
 
 
