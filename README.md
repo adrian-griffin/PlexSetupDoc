@@ -1,11 +1,11 @@
 # Plex Setup - ReadMe
-> You must have either received an invite link via email or accepted the invite from Plex's UI via Settings > Manage Library Access > Requests in order to get access to the server. Otherwise you will have an empty Plex dashboard!
+> You must have either received an invite link via email or accepted the invite from Plex's UI via Settings > Manage [Library Access](https://app.plex.tv/desktop/#!/settings/manage-library-access) > Requests in order to get access to the server. Otherwise you will have an empty Plex dashboard!
  
 > Ask for an invite or just use the discord bot.
 
 ## Setting up an account
 
-To create an account, head to https://www.plex.tv/sign-up/ and sign up using OAuth or an email & password.
+To create an account, head [here](https://www.plex.tv/sign-up/) and sign up using OAuth or an email & password.
 
 Once you have created an account select *GET STARTED* and click the `x` on the Streaming Services window to close out of it, adding other services does nothing, I promise.
 
@@ -38,6 +38,8 @@ Click the Actions button > Pin. **Do this for all 4 sources.**
 - You can download any and all files from Plex locally for offline viewing to any device at any time to be used for road trips, pre-planning what you want to watch, etc.
 
 - Feel free to request anything under the sun either via [Overseerr](http://69.4.234.24:55277/) or via the Discord request bot.
+
+> For info about requesting media check out the Request markdown file in this repo
 
 - All shows and anime that are still running will receive new episode releases immediately, often even before they are officially aired on TV or other streaming services like Hulu, HBO Max, etc. i.e. New episode releases for shows will automatically be grabbed and uploaded to the server.
 
