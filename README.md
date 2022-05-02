@@ -39,7 +39,7 @@ Click the Actions button > Pin. **Do this for all 4 sources.**
 
 - Feel free to request anything under the sun either via [Overseerr](http://69.4.234.24:55277/) or via the Discord request bot.
 
-> For info about requesting media check out the Request markdown file in this repo
+> For info about requesting media check out the Request markdown file in the main repo. Located here: [RequestingMedia](https://github.com/adrian-griffin/PlexSetupDoc/blob/main/RequestingMedia.md)
 
 - All shows and anime that are still running will receive new episode releases immediately, often even before they are officially aired on TV or other streaming services like Hulu, HBO Max, etc. i.e. New episode releases for shows will automatically be grabbed and uploaded to the server.
 
