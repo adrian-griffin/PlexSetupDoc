@@ -37,7 +37,7 @@ Click the Actions button > Pin. **Do this for all 4 sources.**
 
 - You can download any and all files from Plex locally for offline viewing to any device at any time to be used for road trips, pre-planning what you want to watch, etc.
 
-- Feel free to request anything under the sun either via ![Overseerr](69.4.234.24:55277) or via the Discord request bot.
+- Feel free to request anything under the sun either via [Overseerr](http://69.4.234.24:55277/) or via the Discord request bot.
 
 - All shows and anime that are still running will receive new episode releases immediately, often even before they are officially aired on TV or other streaming services like Hulu, HBO Max, etc. i.e. New episode releases for shows will automatically be grabbed and uploaded to the server.
 
