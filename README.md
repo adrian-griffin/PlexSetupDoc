@@ -37,7 +37,7 @@ Click the Actions button > Pin. **Do this for all 4 sources.**
 
 - You can download any and all files from Plex locally for offline viewing to any device at any time to be used for road trips, pre-planning what you want to watch, etc.
 
-- Feel free to request anything under the sun either via [Overseerr](http://69.4.234.24:55277/) or via the Discord request bot.
+- Feel free to request anything under the sun either via [Overseerr](http://69.4.234.19:55277/) or via the Discord request bot.
 
 > For info about requesting media check out the Request markdown file in the main repo. Located here: [RequestingMedia](https://github.com/adrian-griffin/PlexSetupDoc/blob/main/RequestingMedia.md)
 
