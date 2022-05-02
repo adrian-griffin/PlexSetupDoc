@@ -5,4 +5,4 @@ To create an account, head to https://www.plex.tv/sign-up/ and sign up using OAu
 
 Once you have created an account select GET STARTED and click the x on the Streaming Services window.
 
-<img src="https://raw.github.com/adrian-griffin/PlexSetupDoc/main/media/GetStarted.jpg" width="200" height="200"/>
+![get-started-button](images/GetStartedButton.jpg)
