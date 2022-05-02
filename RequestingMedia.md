@@ -19,7 +19,7 @@ Request syntax:
 - Note that spaces are allowed
 
 ## Overseerr
-You can access Overseerr here: [Overseerr](http://69.4.234.24:55277)
+You can access Overseerr here: [Overseerr](http://69.4.234.19:55277)
 
 Either log in with your Plex account or use the following credentials:
 
